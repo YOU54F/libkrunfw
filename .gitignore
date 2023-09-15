@@ -2,7 +2,10 @@ __pycache__
 *.pyc
 *~
 libkrunfw.so
+libkrunfw.*.dylib
+libkrunfw.so*
 kernel.c
 vmlinux
 /tarballs
 /linux-*
+.DS_Store
